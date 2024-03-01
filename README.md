@@ -10,4 +10,4 @@ Although a self-normalizing net, with a selu activation and a lecun initializati
 
 Note that the mean absolute error of the ML models we constructed in scikit-learn is already beat. 
 
-This project is a work in progress and I still update it as time allows.
+This project is a work in progress and I update it as time allows.
